@@ -27,7 +27,7 @@ python main.py
 `````
 
 Results:
--Test Accuracy:** ~98.9%
+-Test Accuracy: ~98.9%
 -Strong precision, recall, and F1-score across all classes
 
 Notes: This project demonstrates a complete **deep learning pipeline**, from model training to real-time inference. It can be extended for custom hand gesture datasets and real-world applications.
